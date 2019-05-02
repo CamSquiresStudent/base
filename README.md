@@ -26,7 +26,7 @@
 * styles.css
 
 ## Start Hacking
-`https://gitpod.io/#https://github.com/hhstjohnsnl/sleepy-app2`
+`https://gitpod.io/#https://github.com/{your_github_username}/sleepy-app2`
 
 ## Host the website
 `https://netlify.com`
