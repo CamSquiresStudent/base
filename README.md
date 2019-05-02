@@ -27,7 +27,12 @@
 * styles.css
 
 #### JavaScript
-* 
+* script tag
+* console.log()
+* variables (assignment, reassignment, arithmetic)
+* if else
+* for loop
+* functions
 
 ## Start Hacking
 <strong>Update your github username below and then go to the url</strong>
