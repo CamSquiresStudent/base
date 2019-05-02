@@ -26,6 +26,7 @@
 * styles.css
 
 ## Start Hacking
+<strong>Update your github username below and then go to the url</strong>
 `https://gitpod.io/#https://github.com/{your_github_username}/sleepy-app2`
 
 ## Host the website
